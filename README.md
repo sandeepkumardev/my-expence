@@ -75,6 +75,8 @@ Now create your account with a dummy email and password and start adding your da
 
 ## Screenshots
 
-<div style="text-align: center; ">
+<!-- <div style="text-align: center; ">
   <img src="./screenshot.png" alt="app" style="height: 500px; border: 1px solid gray;" />
-</div>
+</div> -->
+
+  <img src="./screenshot.png" alt="app" style="height: 500px; border: 1px solid black;" />
